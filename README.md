@@ -28,3 +28,18 @@
 // {a: 1, b: 1, c: 7, d:1}
 // For of loops are for array, for in loops are for objects
 ```
+## If I'm able to do the first part...
+## Bonus
+```
+// Make react app with a simple UI
+// Make a form /input labeled Reverse your Int and when a user enters there integer and clicks submit it reverses the int
+// Make another form/input below and do the same for max char
+// deploy it to heroku, or netlify or whatever.
+```
+
+### Super-bonus
+```
+// Put the functions in an express api
+// fetch('http://localhost:3000/maxchar/abbbbbccc')
+// this api call should return back { "ans": "b"}
+```
