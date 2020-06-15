@@ -1,9 +1,9 @@
-# Solve the following Algorithms
+# Unit 3 Assesment Code Challenge
 
-
-#### Read the problem thoroughly and do not use a nested loop
-use google
-
+## Solve the following Algorithms
+### Read the problem thoroughly and do not use a nested loop
+### use google
+```
 // --- Directions
 // Given an integer, return an integer that is the reverse
 // ordering of numbers.
@@ -15,6 +15,9 @@ use google
 //   reverseInt(-90) === -9
 
 // Hint Math.sign or -1 is a negative greater than 0 or less than 0
+```
+
+```
 // --- Directions
 // Given a string, return the character that is most
 // commonly used in the string.
@@ -24,3 +27,4 @@ use google
 // Hint use an object as a frequency counter (google it)
 // {a: 1, b: 1, c: 7, d:1}
 // For of loops are for array, for in loops are for objects
+```
